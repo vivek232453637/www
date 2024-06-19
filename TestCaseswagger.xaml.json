@@ -1,0 +1,153 @@
+{
+  "DisplayName": "TestCaseswagger",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "VariationName",
+      "DisplayName": "VariationName",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "StraightTrough",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "VariationDescription",
+      "DisplayName": "VariationDescription",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "The main and most impportant variation, covering at least 70% of the function",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "Age",
+      "DisplayName": "Age",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "40",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "Amount",
+      "DisplayName": "Amount",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "5000",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "Email",
+      "DisplayName": "Email",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "sampleemail1@gmail.com",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "Income",
+      "DisplayName": "Income",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "80000",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "LoanTerm",
+      "DisplayName": "LoanTerm",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "3",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "VerifyLoanAccepted",
+      "DisplayName": "VerifyLoanAccepted",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "TRUE",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "VerifyLoanRate",
+      "DisplayName": "VerifyLoanRate",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "7",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "VerifyMessageMain",
+      "DisplayName": "VerifyMessageMain",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "Congrats!",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "VerifyMessageDescription",
+      "DisplayName": "VerifyMessageDescription",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "Type",
+      "DisplayName": "Type",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "positive",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
